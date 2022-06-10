@@ -5,7 +5,7 @@ This is an attempt to test vforwater django project. Some lines of the codes hav
 - Geoserver setting are modified with random local geoserver information so that, no error raised in related functions. 
 
 
-<img width="1440" alt="V_For_Water_Home_V2" src="https://user-images.githubusercontent.com/15700676/173160007-80c1d470-0f86-4f2c-baf3-c19012c129fe.png">
+![image](https://user-images.githubusercontent.com/15700676/173160127-29e6f8d6-f4ea-41de-be96-17d38f10a7cc.png)
 
 
 
