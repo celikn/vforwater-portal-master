@@ -4,8 +4,8 @@ This is an attempt to test vforwater django project. Some lines of the codes hav
 - Some of the divs are removed from html's due to missing templates error (quick_files.html, map_model.html)
 - Geoserver setting are modified with random local geoserver information so that, no error raised in related functions. 
 
-<img width="1440" alt="V-For_Water_Home" src="https://user-images.githubusercontent.com/15700676/173154398-eebf7198-1039-4f28-973d-abfec7d77c0b.png">
 
+<img width="1440" alt="V_For_Water_Home_V2" src="https://user-images.githubusercontent.com/15700676/173160007-80c1d470-0f86-4f2c-baf3-c19012c129fe.png">
 
 
 
