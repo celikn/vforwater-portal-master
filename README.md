@@ -1,3 +1,14 @@
+This is an attempt to test vforwater django project. Some lines of the codes have been modified and changed to able to run the project in local host. 
+
+- Files to fill PostGRESQL database (db_schema_dump.sql and  db_data_dump.sql) has not been provided in the repository. 
+- Some of the divs are removed from html's due to missing templates error (quick_files.html, map_model.html)
+- Geoserver setting are modified with random local geoserver information so that, no error raised in related functions. 
+
+<img width="1440" alt="V-For_Water_Home" src="https://user-images.githubusercontent.com/15700676/173154398-eebf7198-1039-4f28-973d-abfec7d77c0b.png">
+
+
+
+
 # V-FOR-WaTer portal
 
 Vforwater-portal is an open source virtual research environment written in django for common and systematic management of data obtained from water and environmental research.
