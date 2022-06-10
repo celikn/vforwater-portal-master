@@ -221,7 +221,10 @@ function create_map() {
             }
 
         } else {
-            metaData_Overlay.setPosition(undefined) // removes popup from map when clicked on map
+            // In edit it throws an error 
+            if (metaData_Overlay!=undefined){
+                metaData_Overlay.setPosition(undefined) // removes popup from map when clicked on map
+            }
         }
     }
 

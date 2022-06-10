@@ -302,7 +302,7 @@ function drawOnMapMenu(test) {
         updateWhileAnimating: true, // optional, for instant visual feedback
         updateWhileInteracting: true // optional, for instant visual feedback
     });
-    olmap.addLayer(vector);
+    olmap.addLayer(selectionLayer);
 
     /**
      * Create and add interactions
