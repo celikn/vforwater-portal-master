@@ -8,6 +8,12 @@ This is an attempt to test vforwater django project. Some lines of the codes hav
 ![image](https://user-images.githubusercontent.com/15700676/173160127-29e6f8d6-f4ea-41de-be96-17d38f10a7cc.png)
 
 
+![image](https://user-images.githubusercontent.com/15700676/173197487-06f0b109-5b91-4b4c-8add-3f79b1c71a4d.png)
+
+
+![image](https://user-images.githubusercontent.com/15700676/173197466-80e1f800-d980-4f9c-b392-71ebc6e8a9e1.png)
+
+
 
 # V-FOR-WaTer portal
 
